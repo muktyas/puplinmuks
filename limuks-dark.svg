@@ -1,0 +1,11 @@
+<svg width="1366" height="768">
+	<rect width="1366" height="768"	style="fill:#272822"/>
+	<rect width="683" height="768"	style="fill:#3c3c2e"/>
+	<text
+		x="683" y="576"
+       style="font-size:72;font-weight:bold;font-family:Monospace;text-anchor:middle;fill:#ffffff;">limuks</text>
+    <text
+		x="683" y="624"
+       style="font-size:36;font-weight:bold;font-family:Sans;text-anchor:middle;fill:#000000;">17.09</text>
+    
+</svg>
